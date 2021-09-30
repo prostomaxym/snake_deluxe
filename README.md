@@ -1,6 +1,7 @@
 # snake_deluxe
 This is one of my first pet projects using C++ and OpenGL/GLut in particilar. 
 It is a simple classic game with default functionality and features implemented.
+
 Features implemented:
   Base snake game logic,
   Border cross logic,
