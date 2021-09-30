@@ -4,7 +4,7 @@ It is a simple classic game with default functionality and features implemented.
 
 Features implemented:
   Base snake game logic,
-  Border cross logic,
+  Border crossing logic,
   Simple start/end screen,
   2D raster text renderer,
   Score count and display.
