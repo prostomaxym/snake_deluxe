@@ -1,6 +1,4 @@
 # snake_deluxe
-Jokur pet project
-
 This is one of my first pet projects using C++ and OpenGL/GLut in particilar. 
 It is a simple classic game with default functionality and features implemented.
 Features implemented:
